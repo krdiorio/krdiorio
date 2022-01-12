@@ -1,6 +1,6 @@
 # Olá 👋
 
-<img align="right" alt="MyLive" src="https://github.com/krdiorio/krdiorio/blob/main/triathlon.jpg" width="370" height="215" />
+<img align="right" alt="MyLive" src="https://github.com/krdiorio/krdiorio/blob/main/triathlon.jpg" width="320" height="220" />
 
 Seja bem vindo ao meu perfil GitHub 😄.
 
@@ -9,20 +9,18 @@ Meu nome é Klauss, sou **triatleta** nas horas vagas, respiro **tecnologia** e 
 Estou sempre atento as novas tecnologias procurando sempre acompanhar as novidades neste mundo das linguagens, plataformas e frameworks em que trabalho. 
 
 
-
+- 💻 Atualmente:
+   - Trabalhando em projetos .NET e .NET Core e Web API´s;
+   - Estudando Angular e Reaction (Querendo conhecer mais este mundo Frontend);
 
 ```js
 class Bio {
   name     = 'Klauss Diorio';
-  title    = 'Especialista em Desenvolvimento .NET - MCP - Software Development Fundamentals';
+  title    = 'Especialista em Desenvolvimento .NET - MCP - Software Development Fundamentals';  
   location = 'Vila Velha, ES - BR';
 }
 ```
 
-
-- 💻 Atualmente:
-   - Trabalhando em projetos .NET e .NET Core e Web API´s;
-   - Estudando Angular e Reaction (Querendo conhecer mais este mundo Frontend);
 
 ## 💻 My Techbio
 
@@ -31,6 +29,7 @@ class Skills {
   languages  = ['.Net', 'Javascript', 'TypeScript'];
   databases  = ['SQL Server', 'Oracle', 'Postgree', 'SQLite'];
   frameworks = ['Angular', 'Xamarin'];
+  Meu lin
 }
 ```
 
