@@ -1,6 +1,6 @@
 # Olá 👋
 
-<img align="right" alt="MyLive" src="https://github.com/krdiorio/krdiorio/blob/main/triathlon.jpg" width="400" height="215" />
+<img align="right" alt="MyLive" src="https://github.com/krdiorio/krdiorio/blob/main/triathlon.jpg" width="370" height="215" />
 
 Seja bem vindo ao meu perfil GitHub 😄.
 
