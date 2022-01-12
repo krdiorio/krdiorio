@@ -1,6 +1,42 @@
-### Olá 👋
+# Olá 👋
 
-<img align="right" alt="Code Music" src="https://github.com/FernandoVendramin/FernandoVendramin/blob/main/imgs/code-music.jpg" width="400" height="230" />
+<img align="right" alt="MyLive" src="https://github.com/krdiorio/krdiorio/blob/main/triathlon.jpg" width="400" height="215" />
+
+Seja bem vindo ao meu perfil GitHub 😄.
+
+Meu nome é Klauss, sou **triatleta** nas horas vagas, respiro **tecnologia** e  viciado em **café** (☕). Sou desenvolvedor backend com foco em tecnologias e plataformas da Microsoft. 
+
+Estou sempre atento as novas tecnologias procurando sempre acompanhar as novidades neste mundo das linguagens, plataformas e frameworks em que trabalho. 
+
+
+```js
+class Bio {
+  name     = 'Klauss Diorio';
+  title    = 'Especialista em Desenvolvimento .NET - MCP - Software Development Fundamentals';
+  location = 'Vila Velha, ES - BR';
+}
+```
+
+
+- 💻 Atualmente:
+   - Trabalhando em projetos .NET e .NET Core e Web API´s;
+   - Estudando Angular e Reaction (Querendo conhecer mais este mundo Frontend);
+
+## 💻 My Techbio
+
+```js
+class Skills {
+  languages  = ['.Net', 'Javascript', 'TypeScript'];
+  databases  = ['SQL Server', 'Oracle', 'Postgree', 'SQLite'];
+  frameworks = ['Angular', 'Xamarin'];
+}
+```
+
+
+## 📊 Github Status
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=krdiorio&show_icons=true&theme=dracula&custom_title=Github%20Status)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krdiorio&layout=compact&theme=dracula)
+
 
 <!--
 **krdiorio/krdiorio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
