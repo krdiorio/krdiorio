@@ -12,13 +12,13 @@ Estou sempre atento as novas tecnologias procurando sempre acompanhar as novidad
 - 💻 Atualmente:
    - Trabalhando em projetos .NET e .NET Core e Web API´s;
    - Estudando Angular e Reaction (Querendo conhecer mais este mundo Frontend);
+   - [Meu linkedin](https://www.linkedin.com/in/krdiorio/)
 
 ```js
 class Bio {
   name        = 'Klauss Diorio';
   title       = 'Especialista em Desenvolvimento .NET - MCP - Software Development Fundamentals';  
   location    = 'Vila Velha, ES - BR';
-  [My linkedin=](https://www.linkedin.com/in/krdiorio/)
 }
 ```
 
