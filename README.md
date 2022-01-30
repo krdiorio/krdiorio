@@ -15,9 +15,10 @@ Estou sempre atento as novas tecnologias procurando sempre acompanhar as novidad
 
 ```js
 class Bio {
-  name     = 'Klauss Diorio';
-  title    = 'Especialista em Desenvolvimento .NET - MCP - Software Development Fundamentals';  
-  location = 'Vila Velha, ES - BR';
+  name        = 'Klauss Diorio';
+  title       = 'Especialista em Desenvolvimento .NET - MCP - Software Development Fundamentals';  
+  location    = 'Vila Velha, ES - BR';
+  [My linkedin=](https://www.linkedin.com/in/krdiorio/)
 }
 ```
 
