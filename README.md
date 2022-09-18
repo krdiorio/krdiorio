@@ -27,9 +27,9 @@ class Bio {
 
 ```js
 class Skills {
-  languages  = ['.Net', 'Javascript - Em estudo', 'TypeScript - Em estudo'];
+  languages  = ['C#', 'Javascript - Em estudo', 'TypeScript - Em estudo'];
   databases  = ['SQL Server', 'Oracle', 'Postgree', 'SQLite'];
-  frameworks = ['Angular - Em estudo', 'Xamarin - Em estudo'];
+  frameworks = ['.Net Core','.Net','Angular - Em estudo', 'Xamarin - Em estudo'];
   Meu lin
 }
 ```
